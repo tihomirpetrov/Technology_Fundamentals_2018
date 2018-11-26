@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.DayOfWeek", "P01.DayOfWeek\P01.DayOfWeek.csproj", "{6753FC9C-EA49-40CF-A00B-613407378EBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.DayOfWeek", "P01.DayOfWeek\P01.DayOfWeek.csproj", "{6753FC9C-EA49-40CF-A00B-613407378EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.PrintNumbersInReverseOrder", "P02.PrintNumbersInReverseOrder\P02.PrintNumbersInReverseOrder.csproj", "{9B81BA9E-0448-4D0C-8A8A-F959CB9F627E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.RoundingNumbers", "P03.RoundingNumbers\P03.RoundingNumbers.csproj", "{E95102F9-D0C3-4FA0-8490-A68963E06DF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{6753FC9C-EA49-40CF-A00B-613407378EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6753FC9C-EA49-40CF-A00B-613407378EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6753FC9C-EA49-40CF-A00B-613407378EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B81BA9E-0448-4D0C-8A8A-F959CB9F627E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B81BA9E-0448-4D0C-8A8A-F959CB9F627E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B81BA9E-0448-4D0C-8A8A-F959CB9F627E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B81BA9E-0448-4D0C-8A8A-F959CB9F627E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E95102F9-D0C3-4FA0-8490-A68963E06DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95102F9-D0C3-4FA0-8490-A68963E06DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95102F9-D0C3-4FA0-8490-A68963E06DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95102F9-D0C3-4FA0-8490-A68963E06DF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
