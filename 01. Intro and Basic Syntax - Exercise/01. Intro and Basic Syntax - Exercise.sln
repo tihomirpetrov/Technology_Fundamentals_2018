@@ -7,17 +7,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.Ages", "P01.Ages\P01.Ag
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.Division", "P02.Division\P02.Division.csproj", "{7281C351-194A-4607-9665-316CDA7C1093}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.Vacation", "P03.Vacation\P03.Vacation.csproj", "{7189E8CE-ACDA-4A32-A1A9-FF1E136ED15B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03.Vacation", "P03.Vacation\P03.Vacation.csproj", "{7189E8CE-ACDA-4A32-A1A9-FF1E136ED15B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.PrintAndSum", "P04.PrintAndSum\P04.PrintAndSum.csproj", "{D98B17DF-9921-4970-9E86-D82B22044522}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04.PrintAndSum", "P04.PrintAndSum\P04.PrintAndSum.csproj", "{D98B17DF-9921-4970-9E86-D82B22044522}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05.Login", "P05.Login\P05.Login.csproj", "{530B6D05-D8E6-4321-8E06-B20FC3A81262}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05.Login", "P05.Login\P05.Login.csproj", "{530B6D05-D8E6-4321-8E06-B20FC3A81262}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06.StrongNumber", "P06.StrongNumber\P06.StrongNumber.csproj", "{FB279CD5-750A-43D9-87B9-86899B19A0D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P06.StrongNumber", "P06.StrongNumber\P06.StrongNumber.csproj", "{FB279CD5-750A-43D9-87B9-86899B19A0D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07.VendingMachine", "P07.VendingMachine\P07.VendingMachine.csproj", "{6FEE6A7E-C7B8-43AF-8CBF-4902A44E31DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P07.VendingMachine", "P07.VendingMachine\P07.VendingMachine.csproj", "{6FEE6A7E-C7B8-43AF-8CBF-4902A44E31DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08.TriangleOfNumbers", "P08.TriangleOfNumbers\P08.TriangleOfNumbers.csproj", "{37EE9126-2379-40AE-8164-277D454BC0B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P08.TriangleOfNumbers", "P08.TriangleOfNumbers\P08.TriangleOfNumbers.csproj", "{37EE9126-2379-40AE-8164-277D454BC0B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P10.RageExpanses", "P10.RageExpanses\P10.RageExpanses.csproj", "{9E1F3ABD-5AA5-4E0A-B84B-0A7A634981AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09.PadawanEquipment", "P09.PadawanEquipment\P09.PadawanEquipment.csproj", "{6B9DCADC-0171-4FC8-9FD8-D93777855215}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{37EE9126-2379-40AE-8164-277D454BC0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37EE9126-2379-40AE-8164-277D454BC0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37EE9126-2379-40AE-8164-277D454BC0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E1F3ABD-5AA5-4E0A-B84B-0A7A634981AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1F3ABD-5AA5-4E0A-B84B-0A7A634981AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1F3ABD-5AA5-4E0A-B84B-0A7A634981AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1F3ABD-5AA5-4E0A-B84B-0A7A634981AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B9DCADC-0171-4FC8-9FD8-D93777855215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9DCADC-0171-4FC8-9FD8-D93777855215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9DCADC-0171-4FC8-9FD8-D93777855215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9DCADC-0171-4FC8-9FD8-D93777855215}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
