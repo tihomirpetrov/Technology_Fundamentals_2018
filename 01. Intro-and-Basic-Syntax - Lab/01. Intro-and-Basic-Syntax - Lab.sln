@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10.MultiplicationTable", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11.MultiplicationTable_2", "P11.MultiplicationTable_2\P11.MultiplicationTable_2.csproj", "{500E2CD6-A60B-4AD5-9E3B-14ACA9481D05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12.EvenNumber", "P12.EvenNumber\P12.EvenNumber.csproj", "{7D09B220-AF85-49CD-BAC7-8AB54036C226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13.DebugTheCode_HolidaysBetweenTwoDates", "P13.DebugTheCode_HolidaysBetweenTwoDates\P13.DebugTheCode_HolidaysBetweenTwoDates.csproj", "{79031D3A-AFA6-4278-8072-F840D5871917}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{500E2CD6-A60B-4AD5-9E3B-14ACA9481D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{500E2CD6-A60B-4AD5-9E3B-14ACA9481D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{500E2CD6-A60B-4AD5-9E3B-14ACA9481D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D09B220-AF85-49CD-BAC7-8AB54036C226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D09B220-AF85-49CD-BAC7-8AB54036C226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D09B220-AF85-49CD-BAC7-8AB54036C226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D09B220-AF85-49CD-BAC7-8AB54036C226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79031D3A-AFA6-4278-8072-F840D5871917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79031D3A-AFA6-4278-8072-F840D5871917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79031D3A-AFA6-4278-8072-F840D5871917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79031D3A-AFA6-4278-8072-F840D5871917}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
