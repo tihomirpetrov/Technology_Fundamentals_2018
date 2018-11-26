@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06.EqualSum", "P06.EqualSu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07.MaxSequenceOfEqual", "P07.MaxSequenceOfEqual\P07.MaxSequenceOfEqual.csproj", "{15B9C51D-3ADC-4518-8EA5-6F8FFAE2DFD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08.MagicSum", "P08.MagicSum\P08.MagicSum.csproj", "{D12E7047-5B15-4B50-8A54-221E71A33D4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{15B9C51D-3ADC-4518-8EA5-6F8FFAE2DFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15B9C51D-3ADC-4518-8EA5-6F8FFAE2DFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15B9C51D-3ADC-4518-8EA5-6F8FFAE2DFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D12E7047-5B15-4B50-8A54-221E71A33D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12E7047-5B15-4B50-8A54-221E71A33D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12E7047-5B15-4B50-8A54-221E71A33D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12E7047-5B15-4B50-8A54-221E71A33D4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
