@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.SumDigits", "P01.SumDigits\P01.SumDigits.csproj", "{7F631DA3-6BBE-46C4-A6BA-1B5BF8BBC5F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.SumDigits", "P01.SumDigits\P01.SumDigits.csproj", "{7F631DA3-6BBE-46C4-A6BA-1B5BF8BBC5F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.CharsToString", "P02.CharsToString\P02.CharsToString.csproj", "{558B4530-D054-4508-87EA-ED519EFEA9BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.CharsToString", "P02.CharsToString\P02.CharsToString.csproj", "{558B4530-D054-4508-87EA-ED519EFEA9BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.TownInfo", "P03.TownInfo\P03.TownInfo.csproj", "{C12CD061-5138-4125-BB13-286ECEB2CA6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03.TownInfo", "P03.TownInfo\P03.TownInfo.csproj", "{C12CD061-5138-4125-BB13-286ECEB2CA6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.ConvertMetersToKilometers", "P04.ConvertMetersToKilometers\P04.ConvertMetersToKilometers.csproj", "{B1B51978-C50E-4A89-B0D9-8F6BBF647639}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04.ConvertMetersToKilometers", "P04.ConvertMetersToKilometers\P04.ConvertMetersToKilometers.csproj", "{B1B51978-C50E-4A89-B0D9-8F6BBF647639}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05.PoundsToDollars", "P05.PoundsToDollars\P05.PoundsToDollars.csproj", "{867E67CD-217B-4FDA-8B22-2707BE90A74E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05.PoundsToDollars", "P05.PoundsToDollars\P05.PoundsToDollars.csproj", "{867E67CD-217B-4FDA-8B22-2707BE90A74E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06.ReversedChars", "P06.ReversedChars\P06.ReversedChars.csproj", "{29186B65-E9DC-40B1-8B37-0414EC17608B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07.LowerToUpper", "P07.LowerToUpper\P07.LowerToUpper.csproj", "{ED464B24-2083-4895-B59B-971059C79038}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{867E67CD-217B-4FDA-8B22-2707BE90A74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{867E67CD-217B-4FDA-8B22-2707BE90A74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{867E67CD-217B-4FDA-8B22-2707BE90A74E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29186B65-E9DC-40B1-8B37-0414EC17608B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29186B65-E9DC-40B1-8B37-0414EC17608B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29186B65-E9DC-40B1-8B37-0414EC17608B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29186B65-E9DC-40B1-8B37-0414EC17608B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED464B24-2083-4895-B59B-971059C79038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED464B24-2083-4895-B59B-971059C79038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED464B24-2083-4895-B59B-971059C79038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED464B24-2083-4895-B59B-971059C79038}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
