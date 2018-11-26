@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.IntegerOperations", "P0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.CircleArea", "P02.CircleArea\P02.CircleArea.csproj", "{5C59D5F8-A861-40CE-89B7-BFBC9B5E2D41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.ExactSumOfRealNumbers", "P03.ExactSumOfRealNumbers\P03.ExactSumOfRealNumbers.csproj", "{FD9B2B4C-10FA-4726-B64D-51B4EE3BBF3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.Elevator", "P04.Elevator\P04.Elevator.csproj", "{D53D22A5-4CA9-43F3-A84F-04C5ABE92338}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{5C59D5F8-A861-40CE-89B7-BFBC9B5E2D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C59D5F8-A861-40CE-89B7-BFBC9B5E2D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C59D5F8-A861-40CE-89B7-BFBC9B5E2D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD9B2B4C-10FA-4726-B64D-51B4EE3BBF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9B2B4C-10FA-4726-B64D-51B4EE3BBF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9B2B4C-10FA-4726-B64D-51B4EE3BBF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9B2B4C-10FA-4726-B64D-51B4EE3BBF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D53D22A5-4CA9-43F3-A84F-04C5ABE92338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53D22A5-4CA9-43F3-A84F-04C5ABE92338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53D22A5-4CA9-43F3-A84F-04C5ABE92338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53D22A5-4CA9-43F3-A84F-04C5ABE92338}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
