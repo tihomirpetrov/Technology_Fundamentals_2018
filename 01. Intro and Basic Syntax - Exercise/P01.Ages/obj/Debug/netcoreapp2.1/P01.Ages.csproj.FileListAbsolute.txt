@@ -9,3 +9,14 @@ C:\Users\Tihomir\source\repos\01. Intro and Basic Syntax - Exercise\P01.Ages\obj
 C:\Users\Tihomir\source\repos\01. Intro and Basic Syntax - Exercise\P01.Ages\obj\Debug\netcoreapp2.1\P01.Ages.AssemblyInfo.cs
 C:\Users\Tihomir\source\repos\01. Intro and Basic Syntax - Exercise\P01.Ages\obj\Debug\netcoreapp2.1\P01.Ages.dll
 C:\Users\Tihomir\source\repos\01. Intro and Basic Syntax - Exercise\P01.Ages\obj\Debug\netcoreapp2.1\P01.Ages.pdb
+C:\Users\Tihomir\source\repos\Technology_Fundamentals_2018\01. Intro and Basic Syntax - Exercise\P01.Ages\bin\Debug\netcoreapp2.1\P01.Ages.deps.json
+C:\Users\Tihomir\source\repos\Technology_Fundamentals_2018\01. Intro and Basic Syntax - Exercise\P01.Ages\bin\Debug\netcoreapp2.1\P01.Ages.runtimeconfig.json
+C:\Users\Tihomir\source\repos\Technology_Fundamentals_2018\01. Intro and Basic Syntax - Exercise\P01.Ages\bin\Debug\netcoreapp2.1\P01.Ages.runtimeconfig.dev.json
+C:\Users\Tihomir\source\repos\Technology_Fundamentals_2018\01. Intro and Basic Syntax - Exercise\P01.Ages\bin\Debug\netcoreapp2.1\P01.Ages.dll
+C:\Users\Tihomir\source\repos\Technology_Fundamentals_2018\01. Intro and Basic Syntax - Exercise\P01.Ages\bin\Debug\netcoreapp2.1\P01.Ages.pdb
+C:\Users\Tihomir\source\repos\Technology_Fundamentals_2018\01. Intro and Basic Syntax - Exercise\P01.Ages\obj\Debug\netcoreapp2.1\P01.Ages.csprojAssemblyReference.cache
+C:\Users\Tihomir\source\repos\Technology_Fundamentals_2018\01. Intro and Basic Syntax - Exercise\P01.Ages\obj\Debug\netcoreapp2.1\P01.Ages.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\source\repos\Technology_Fundamentals_2018\01. Intro and Basic Syntax - Exercise\P01.Ages\obj\Debug\netcoreapp2.1\P01.Ages.AssemblyInfoInputs.cache
+C:\Users\Tihomir\source\repos\Technology_Fundamentals_2018\01. Intro and Basic Syntax - Exercise\P01.Ages\obj\Debug\netcoreapp2.1\P01.Ages.AssemblyInfo.cs
+C:\Users\Tihomir\source\repos\Technology_Fundamentals_2018\01. Intro and Basic Syntax - Exercise\P01.Ages\obj\Debug\netcoreapp2.1\P01.Ages.dll
+C:\Users\Tihomir\source\repos\Technology_Fundamentals_2018\01. Intro and Basic Syntax - Exercise\P01.Ages\obj\Debug\netcoreapp2.1\P01.Ages.pdb
