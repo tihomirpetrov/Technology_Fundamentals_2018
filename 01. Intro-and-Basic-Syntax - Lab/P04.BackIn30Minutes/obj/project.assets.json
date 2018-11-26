@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tihomir\\.nuget\\packages\\": {},
+    "C:\\Users\\Tisho\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tihomir\\source\\repos\\Technology_Fundamentals_2018\\01. Intro-and-Basic-Syntax - Lab\\P04.BackIn30Minutes\\P04.BackIn30Minutes.csproj",
+      "projectUniqueName": "D:\\softuni - tech module\\Technology_Fundamentals_2018\\01. Intro-and-Basic-Syntax - Lab\\P04.BackIn30Minutes\\P04.BackIn30Minutes.csproj",
       "projectName": "P04.BackIn30Minutes",
-      "projectPath": "C:\\Users\\Tihomir\\source\\repos\\Technology_Fundamentals_2018\\01. Intro-and-Basic-Syntax - Lab\\P04.BackIn30Minutes\\P04.BackIn30Minutes.csproj",
-      "packagesPath": "C:\\Users\\Tihomir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tihomir\\source\\repos\\Technology_Fundamentals_2018\\01. Intro-and-Basic-Syntax - Lab\\P04.BackIn30Minutes\\obj\\",
+      "projectPath": "D:\\softuni - tech module\\Technology_Fundamentals_2018\\01. Intro-and-Basic-Syntax - Lab\\P04.BackIn30Minutes\\P04.BackIn30Minutes.csproj",
+      "packagesPath": "C:\\Users\\Tisho\\.nuget\\packages\\",
+      "outputPath": "D:\\softuni - tech module\\Technology_Fundamentals_2018\\01. Intro-and-Basic-Syntax - Lab\\P04.BackIn30Minutes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Tihomir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tisho\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
