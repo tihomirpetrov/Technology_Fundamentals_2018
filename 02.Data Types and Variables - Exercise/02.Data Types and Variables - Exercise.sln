@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06.ReversedChars", "P06.Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07.LowerToUpper", "P07.LowerToUpper\P07.LowerToUpper.csproj", "{ED464B24-2083-4895-B59B-971059C79038}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08.Snowballs", "P08.Snowballs\P08.Snowballs.csproj", "{2A995046-F4F9-4E34-9BDF-D867A389006D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{ED464B24-2083-4895-B59B-971059C79038}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED464B24-2083-4895-B59B-971059C79038}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED464B24-2083-4895-B59B-971059C79038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A995046-F4F9-4E34-9BDF-D867A389006D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A995046-F4F9-4E34-9BDF-D867A389006D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A995046-F4F9-4E34-9BDF-D867A389006D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A995046-F4F9-4E34-9BDF-D867A389006D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
