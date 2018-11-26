@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tihomir\\.nuget\\packages\\": {},
+    "C:\\Users\\Tisho\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tihomir\\source\\repos\\Technology_Fundamentals_2018\\04.Methods - Lab\\P01.SignOfIntegerNumbers\\P01.SignOfIntegerNumbers.csproj",
+      "projectUniqueName": "D:\\softuni - tech module\\Technology_Fundamentals_2018\\04.Methods - Lab\\P01.SignOfIntegerNumbers\\P01.SignOfIntegerNumbers.csproj",
       "projectName": "P01.SignOfIntegerNumbers",
-      "projectPath": "C:\\Users\\Tihomir\\source\\repos\\Technology_Fundamentals_2018\\04.Methods - Lab\\P01.SignOfIntegerNumbers\\P01.SignOfIntegerNumbers.csproj",
-      "packagesPath": "C:\\Users\\Tihomir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tihomir\\source\\repos\\Technology_Fundamentals_2018\\04.Methods - Lab\\P01.SignOfIntegerNumbers\\obj\\",
+      "projectPath": "D:\\softuni - tech module\\Technology_Fundamentals_2018\\04.Methods - Lab\\P01.SignOfIntegerNumbers\\P01.SignOfIntegerNumbers.csproj",
+      "packagesPath": "C:\\Users\\Tisho\\.nuget\\packages\\",
+      "outputPath": "D:\\softuni - tech module\\Technology_Fundamentals_2018\\04.Methods - Lab\\P01.SignOfIntegerNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Tihomir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tisho\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
