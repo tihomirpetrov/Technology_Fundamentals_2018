@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08.CompanyUsers", "P08.Com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09.ForceBook", "P09.ForceBook\P09.ForceBook.csproj", "{589E789E-A606-4560-908F-E2678BD6124F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10.SoftUniExamResults", "P10.SoftUniExamResults\P10.SoftUniExamResults.csproj", "{A5F3B697-6601-45A6-95B3-E02D7A771A08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{589E789E-A606-4560-908F-E2678BD6124F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{589E789E-A606-4560-908F-E2678BD6124F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{589E789E-A606-4560-908F-E2678BD6124F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F3B697-6601-45A6-95B3-E02D7A771A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F3B697-6601-45A6-95B3-E02D7A771A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F3B697-6601-45A6-95B3-E02D7A771A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F3B697-6601-45A6-95B3-E02D7A771A08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
