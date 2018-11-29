@@ -20,3 +20,4 @@ Technology Fundamentals 2018 - SoftUni
 06. Dictionaries, Lambda and LINQ - More Exercise
 07. Objects and Classes - Lab
 07. Objects and Classes - Exercise
+08. Strings and Text Processing - Lab
