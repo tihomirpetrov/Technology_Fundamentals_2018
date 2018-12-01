@@ -1,16 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace ToDoList.Models
+﻿namespace ToDoList.Models
 {
+    using System.ComponentModel.DataAnnotations;
     public class Task
     {
         public int Id { get; set; }
 
+        [Required]
         public string Title { get; set; }
 
+        [Required]
         public string Comments { get; set; }
     }
 }

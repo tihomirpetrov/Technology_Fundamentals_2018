@@ -1,11 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using ToDoList.Models;
-
-namespace ToDoList.Data
+﻿namespace ToDoList.Data
 {
+    using Microsoft.EntityFrameworkCore;
+    using ToDoList.Models;
     public class ToDoDbContext : DbContext
     {
         public DbSet<Task> Tasks { get; set; }
@@ -16,5 +12,4 @@ namespace ToDoList.Data
             optionsBuilder.UseSqlServer(ConnectionString);
         }
     }
-
 }

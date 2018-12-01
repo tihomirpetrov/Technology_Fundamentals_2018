@@ -1,11 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using System.Linq;
-using ToDoList.Data;
-using ToDoList.Models;
-
-
+﻿
 namespace ToDoList.Controllers
 {
+    using Microsoft.AspNetCore.Mvc;
+    using System.Linq;
+    using ToDoList.Data;
+    using ToDoList.Models;
     public class TaskController : Controller
     {
         [HttpGet]
@@ -59,7 +58,7 @@ namespace ToDoList.Controllers
                     return RedirectToAction("Index");
                 }
                 return View(taskToEdit);
-            }   
+            }
         }
 
         [HttpPost]
@@ -78,6 +77,38 @@ namespace ToDoList.Controllers
                 db.SaveChanges();
             }
             return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public IActionResult Details(int id)
+        {
+            using (var db = new ToDoDbContext())
+            {
+                Task taskDetails = db.Tasks.FirstOrDefault(t => t.Id == id);
+                if (taskDetails == null)
+                {
+                    RedirectToAction("Index");
+                }
+                return View(taskDetails);
+            }
+        }
+
+
+        [HttpPost]
+        public IActionResult Delete(int id)
+        {
+            using (var db = new ToDoDbContext())
+            {
+                var taskToDelete = db.Tasks.FirstOrDefault(t => t.Id == id);
+                if (taskToDelete == null)
+                {
+                    RedirectToAction("Index");
+                }
+                db.Tasks.Remove(taskToDelete);
+                db.SaveChanges();
+            }
+            return RedirectToAction("Index");
+
         }
     }
 }
