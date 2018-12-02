@@ -1,5 +1,4 @@
-﻿
-namespace ToDoList.Controllers
+﻿namespace ToDoList.Controllers
 {
     using Microsoft.AspNetCore.Mvc;
     using System.Linq;
