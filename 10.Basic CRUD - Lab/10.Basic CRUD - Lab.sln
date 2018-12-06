@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library", "Library\Library.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatShop", "CatShop\CatShop.csproj", "{70DC700D-C5C0-454E-9418-DA9C3EFD8B2F}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeisterMask", "TeisterMask\TeisterMask.csproj", "{79932B59-3751-4110-9C90-D31639E3A001}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{70DC700D-C5C0-454E-9418-DA9C3EFD8B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70DC700D-C5C0-454E-9418-DA9C3EFD8B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70DC700D-C5C0-454E-9418-DA9C3EFD8B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79932B59-3751-4110-9C90-D31639E3A001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79932B59-3751-4110-9C90-D31639E3A001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79932B59-3751-4110-9C90-D31639E3A001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79932B59-3751-4110-9C90-D31639E3A001}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
