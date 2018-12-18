@@ -6,7 +6,7 @@
     {
         public DbSet<Task> Tasks { get; set; }
 
-        private const string ConnectionString = @"Server=.\SQLEXPRESS;Database=ToDoListDb;Integrated Security=True;";
+        private const string ConnectionString = @"Server=TIHOMIR-PC\MSSQLSERVER1;Database=ToDoListDb;Integrated Security=True;";
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(ConnectionString);
