@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.Ranking", "P01.Ranking\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05.DragonArmy", "P05.DragonArmy\P05.DragonArmy.csproj", "{239790D2-5622-4D45-B79B-5D5D971ACB05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.SnowWhite", "P04.SnowWhite\P04.SnowWhite.csproj", "{692E5EFC-3AFC-426A-B8C6-B8B8D014306B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04.SnowWhite", "P04.SnowWhite\P04.SnowWhite.csproj", "{692E5EFC-3AFC-426A-B8C6-B8B8D014306B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.Judge", "P02.Judge\P02.Judge.csproj", "{6B60C6EA-6DC5-48DD-86D4-81030DE85CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.MOBAChallenger", "P03.MOBAChallenger\P03.MOBAChallenger.csproj", "{6EBFF100-A851-49BB-8237-149E897E4A80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{692E5EFC-3AFC-426A-B8C6-B8B8D014306B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{692E5EFC-3AFC-426A-B8C6-B8B8D014306B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{692E5EFC-3AFC-426A-B8C6-B8B8D014306B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B60C6EA-6DC5-48DD-86D4-81030DE85CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B60C6EA-6DC5-48DD-86D4-81030DE85CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B60C6EA-6DC5-48DD-86D4-81030DE85CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B60C6EA-6DC5-48DD-86D4-81030DE85CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EBFF100-A851-49BB-8237-149E897E4A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBFF100-A851-49BB-8237-149E897E4A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBFF100-A851-49BB-8237-149E897E4A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBFF100-A851-49BB-8237-149E897E4A80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
