@@ -36,51 +36,27 @@
                 lines = Console.ReadLine();
             }
 
-            string metalType = string.Empty;
-            string coordinates = string.Empty;
-            string temp = string.Empty;
-            StringBuilder sb = new StringBuilder();
-
             for (int i = 0; i < decryptedLines.Count; i++)
             {
+                string metalType = string.Empty;
+                string coordinates = string.Empty;
 
-                for (int j = 0; j < decryptedLines[i].Length; j++)
+                int startCountMetal = decryptedLines[i].IndexOf('&');
+                int endCountMetal = decryptedLines[i].LastIndexOf('&');
+                for (int j = startCountMetal + 1; j < endCountMetal; j++)
                 {
-
-                    temp = decryptedLines[i];
-                    int counter = 0;
-                    for (int k = 0; k < temp.Length; k++)
-                    {
-                        if (temp[k] == '&')
-                        {
-                            counter++;
-                            if (temp[k] == '&' && counter > 1)
-                            {
-                                break;
-                            }
-                            metalType += temp[k + 1];
-                        }
-                        else if (temp[k] == '<')
-                        {
-                            if (temp[k] == '>')
-                            {
-                                break;
-                            }
-                            coordinates += temp[k + 1];
-                        }
-                    }
+                    metalType += decryptedLines[i][j];
                 }
-            }
 
-            foreach (var item in decryptedLines)
-            {
+                int startCountCoordinates = decryptedLines[i].IndexOf('<');
+                int endCountCoordinates = decryptedLines[i].LastIndexOf('>');
+                for (int j = startCountCoordinates + 1; j < endCountCoordinates; j++)
+                {
+                    coordinates += decryptedLines[i][j];
+                }
 
                 Console.WriteLine($"Found {metalType} at {coordinates}");
             }
-
-
-
-            //Console.WriteLine(string.Join(Environment.NewLine, decryptedLines));
         }
     }
 }
