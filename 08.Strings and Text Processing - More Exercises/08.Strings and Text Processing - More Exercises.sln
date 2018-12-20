@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.ExtractPersonInformation", "P01.ExtractPersonInformation\P01.ExtractPersonInformation.csproj", "{45DD6CA6-600A-4269-BD98-5626313EAAFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.ExtractPersonInformation", "P01.ExtractPersonInformation\P01.ExtractPersonInformation.csproj", "{45DD6CA6-600A-4269-BD98-5626313EAAFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.AsciiSumator", "P02.AsciiSumator\P02.AsciiSumator.csproj", "{F48E7011-9E16-41A8-B642-57BFADBB2ECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.AsciiSumator", "P02.AsciiSumator\P02.AsciiSumator.csproj", "{F48E7011-9E16-41A8-B642-57BFADBB2ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.TreasureFinder", "P03.TreasureFinder\P03.TreasureFinder.csproj", "{D404C7C9-B6A3-45FE-96CC-B472F161DB78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F48E7011-9E16-41A8-B642-57BFADBB2ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F48E7011-9E16-41A8-B642-57BFADBB2ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F48E7011-9E16-41A8-B642-57BFADBB2ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D404C7C9-B6A3-45FE-96CC-B472F161DB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D404C7C9-B6A3-45FE-96CC-B472F161DB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D404C7C9-B6A3-45FE-96CC-B472F161DB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D404C7C9-B6A3-45FE-96CC-B472F161DB78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
