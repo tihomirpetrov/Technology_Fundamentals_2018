@@ -23,16 +23,16 @@
             }
 
             Console.WriteLine("<h1>");
-            Console.WriteLine($"{articleTitle}");
+            Console.WriteLine($"    {articleTitle}");
             Console.WriteLine("</h1>");
             Console.WriteLine("<article>");
-            Console.WriteLine($"{articleContent}");
+            Console.WriteLine($"    {articleContent}");
             Console.WriteLine("</article>");
 
             foreach (var item in comments)
             {
                 Console.WriteLine("<div>");
-                Console.WriteLine($"{item}");
+                Console.WriteLine($"    {item}");
                 Console.WriteLine("</div>");
             }
         }

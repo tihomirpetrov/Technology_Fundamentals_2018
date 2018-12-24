@@ -21,4 +21,6 @@ Technology Fundamentals 2018 - SoftUni
 07. Objects and Classes - Lab
 07. Objects and Classes - Exercise
 08. Strings and Text Processing - Lab
+08. Strings and Text Processing - Exercises
+08. Strings and Text Processing - More Exercises
 10. Basic CRUD - Lab - ToDoList
