@@ -23,4 +23,8 @@ Technology Fundamentals 2018 - SoftUni
 08. Strings and Text Processing - Lab
 08. Strings and Text Processing - Exercises
 08. Strings and Text Processing - More Exercises
+<<<<<<< HEAD
 10. Basic CRUD - Lab - ToDoList
+=======
+10. Basic CRUD - Lab - ToDoList
+>>>>>>> 7f2a5775e4868f27fca7d2cd2cebe1e6d30ad583
