@@ -1,12 +1,11 @@
-﻿using System;
-
-namespace P05.HTML
+﻿namespace P05.HTML
 {
+    using System;
     class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
